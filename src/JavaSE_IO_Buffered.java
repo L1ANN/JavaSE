@@ -2,7 +2,7 @@ import java.io.*;
 
 /**
  * @Author:L1ANN
- * @Description:
+ * @Description: 测试IO中的缓冲区读/写
  * @Date:Created in 22:06 2017/10/30
  * @Modified By:
  */

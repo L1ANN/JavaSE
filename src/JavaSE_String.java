@@ -1,6 +1,6 @@
 /**
  * @Author:L1ANN
- * @Description:
+ * @Description: 测试常用的String方法
  * @Date:Created in 11:23 2017/10/30
  * @Modified By:
  */

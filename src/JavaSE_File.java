@@ -3,7 +3,7 @@ import java.io.IOException;
 
 /**
  * @Author:L1ANN
- * @Description:
+ * @Description: 测试File类常用的方法
  * @Date:Created in 16:59 2017/10/30
  * @Modified By:
  */

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * @Author:L1ANN
- * @Description:
+ * @Description: 测试FileReader和FileWriter，单个字节进行读/写
  * @Date:Created in 23:07 2017/10/30
  * @Modified By:
  */

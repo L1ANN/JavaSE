@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 /**
  * @Author:L1ANN
- * @Description:
+ * @Description: 测试IO中的小数组读/写
  * @Date:Created in 21:45 2017/10/30
  * @Modified By:
  */
