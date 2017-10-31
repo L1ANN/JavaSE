@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a799ff7-be23-4ebc-b2d1-3978732f74e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaSE_Serializable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Serializable/Person.java" />
+    <list default="true" id="1a799ff7-be23-4ebc-b2d1-3978732f74e3" name="Default" comment="JavaSE&#10;1、序列化与反序列化">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_File.java" afterPath="$PROJECT_DIR$/src/JavaSE_File.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_IO.java" afterPath="$PROJECT_DIR$/src/JavaSE_IO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_IO_Buffered.java" afterPath="$PROJECT_DIR$/src/JavaSE_IO_Buffered.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_IO_File.java" afterPath="$PROJECT_DIR$/src/JavaSE_IO_File.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_Mark.java" afterPath="$PROJECT_DIR$/src/JavaSE_Mark.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_String.java" afterPath="$PROJECT_DIR$/src/JavaSE_String.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaSE_Serializable.java" afterPath="$PROJECT_DIR$/src/JavaSE_Serializable.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +38,8 @@
       <file leaf-file-name="JavaSE_Serializable.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaSE_Serializable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-254">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="202">
+              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,7 +102,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/text_a" />
-        <option value="$PROJECT_DIR$/src/JavaSE_Serializable.java" />
         <option value="$PROJECT_DIR$/src/Serializable/Person.java" />
         <option value="$PROJECT_DIR$/src/JavaSE_IO_File.java" />
         <option value="$PROJECT_DIR$/src/JavaSE_IO.java" />
@@ -119,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/JavaSE_File.java" />
         <option value="$PROJECT_DIR$/src/JavaSE_Mark.java" />
         <option value="$PROJECT_DIR$/src/JavaSE_String.java" />
+        <option value="$PROJECT_DIR$/src/JavaSE_Serializable.java" />
       </list>
     </option>
   </component>
@@ -424,7 +415,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509331735791</updated>
       <workItem from="1509331738530" duration="11572000" />
-      <workItem from="1509417997002" duration="2913000" />
+      <workItem from="1509417997002" duration="3121000" />
     </task>
     <task id="LOCAL-00001" summary="JavaSE&#10;1、循环标记&#10;2、String方法&#10;3、File类&#10;4、IO">
       <created>1509379120184</created>
@@ -433,14 +424,22 @@
       <option name="project" value="LOCAL" />
       <updated>1509379120184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JavaSE&#10;1、序列化与反序列化">
+      <created>1509432270908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509432270908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14485000" />
+    <option name="totallyTimeSpent" value="14693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -448,14 +447,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.111979164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.111979164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -474,12 +473,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaSE&#10;1、循环标记&#10;2、String方法&#10;3、File类&#10;4、IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaSE&#10;1、循环标记&#10;2、String方法&#10;3、File类&#10;4、IO" />
+    <MESSAGE value="JavaSE&#10;1、序列化与反序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaSE&#10;1、序列化与反序列化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -693,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaSE_Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="202">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

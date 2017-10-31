@@ -35,7 +35,7 @@ public class JavaSE_Serializable {
     }
 
     /**
-     * 反序列化Person对象
+     * 反序列化Person对象。
      * @return
      * @throws Exception
      * @throws IOException
